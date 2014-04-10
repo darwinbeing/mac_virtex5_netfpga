@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/hpcn/backup_marcof/Trabajo/xaui_netfpga/mac_virtex5_netfpga/ise/my_top.ncd
+OUTFILE=/home/hpcn/backup_marcof/Trabajo/xaui_netfpga/mac_virtex5_netfpga/ise/my_top.bit
+FAMILY=Virtex5
+PART=xc5vtx240t-2ff1759
+WORKINGDIR=/home/hpcn/backup_marcof/Trabajo/xaui_netfpga/mac_virtex5_netfpga/ise
+LICENSE=ISE
+USER_INFO=174257576_178259220_210552568_025

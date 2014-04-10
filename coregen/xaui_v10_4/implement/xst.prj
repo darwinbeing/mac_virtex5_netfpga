@@ -1,0 +1,8 @@
+verilog work ../example_design/xaui_v10_4_mod.v
+verilog work ../example_design/xaui_v10_4_rocketio_wrapper.v
+verilog work ../example_design/xaui_v10_4_rocketio_wrapper_tile.v
+verilog work ../example_design/xaui_v10_4_chanbond_monitor.v
+verilog work ../example_design/xaui_v10_4_tx_sync.v
+    verilog work ../example_design/xaui_v10_4_cc_2b_1skp.v
+verilog work ../example_design/xaui_v10_4_block.v
+verilog work ../example_design/xaui_v10_4_example_design.v

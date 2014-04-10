@@ -1,0 +1,57 @@
+Version 4
+SymbolType BLOCK
+TEXT 32 32 LEFT 4 ten_gig_eth_mac_v10_3
+RECTANGLE Normal 32 32 672 832
+LINE Normal 0 80 32 80
+PIN 0 80 LEFT 36
+PINATTR PinName reset
+PINATTR Polarity IN
+LINE Normal 0 144 32 144
+PIN 0 144 LEFT 36
+PINATTR PinName rx_clk0
+PINATTR Polarity IN
+LINE Wide 0 496 32 496
+PIN 0 496 LEFT 36
+PINATTR PinName rx_data[63:0]
+PINATTR Polarity OUT
+LINE Wide 0 528 32 528
+PIN 0 528 LEFT 36
+PINATTR PinName rx_data_valid[7:0]
+PINATTR Polarity OUT
+LINE Normal 0 560 32 560
+PIN 0 560 LEFT 36
+PINATTR PinName rx_good_frame
+PINATTR Polarity OUT
+LINE Normal 0 592 32 592
+PIN 0 592 LEFT 36
+PINATTR PinName rx_bad_frame
+PINATTR Polarity OUT
+LINE Wide 0 624 32 624
+PIN 0 624 LEFT 36
+PINATTR PinName rx_statistics_vector[28:0]
+PINATTR Polarity OUT
+LINE Normal 0 656 32 656
+PIN 0 656 LEFT 36
+PINATTR PinName rx_statistics_valid
+PINATTR Polarity OUT
+LINE Wide 704 336 672 336
+PIN 704 336 RIGHT 36
+PINATTR PinName configuration_vector[68:0]
+PINATTR Polarity IN
+LINE Wide 704 368 672 368
+PIN 704 368 RIGHT 36
+PINATTR PinName status_vector[1:0]
+PINATTR Polarity OUT
+LINE Normal 704 560 672 560
+PIN 704 560 RIGHT 36
+PINATTR PinName rx_dcm_lock
+PINATTR Polarity IN
+LINE Wide 704 592 672 592
+PIN 704 592 RIGHT 36
+PINATTR PinName xgmii_rxd[63:0]
+PINATTR Polarity IN
+LINE Wide 704 624 672 624
+PIN 704 624 RIGHT 36
+PINATTR PinName xgmii_rxc[7:0]
+PINATTR Polarity IN
+

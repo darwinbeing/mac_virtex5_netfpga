@@ -1,0 +1,8 @@
+run
+-ifn xst.prj
+-ifmt mixed
+#-uc xst.xcf
+-sd ../../
+-top xaui_v10_4_example_design
+-ofn xaui_v10_4_example_design
+-p xc5vtx240tff1759-2 

@@ -1,0 +1,10 @@
+verilog work ../example_design/ten_gig_eth_mac_v10_3_mod.v
+verilog work ../example_design/fifo/fifo_ram.v
+verilog work ../example_design/fifo/tx_fifo.v
+verilog work ../example_design/fifo/rx_fifo.v
+verilog work ../example_design/fifo/xgmac_fifo.v
+verilog work ../example_design/address_swap.v
+verilog work ../example_design/physical_if.v
+verilog work ../example_design/ten_gig_eth_mac_v10_3_block.v
+verilog work ../example_design/ten_gig_eth_mac_v10_3_local_link.v
+verilog work ../example_design/ten_gig_eth_mac_v10_3_example_design.v
